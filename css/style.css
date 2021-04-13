@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+.left{
+    float: left;
+    width: 50%;
+    
+}
+
+.right{
+    float: left;
+    width: 50%;  
+}
+
+.side{
+    float: left;
+    width: 50%;
+}
+
+.elbow{
+    float: left;
+    width: 50%;
+}
+
+.hip{
+    float: left;
+    width: 50%;
+}
+
+.arm{
+    float: left;
+    width: 50%;
+}
